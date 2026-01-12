@@ -26,4 +26,5 @@ This project is beginner-friendly and helps understand basic DOM manipulation an
 1_counter-app/
 │
 ├── index.html
+├── script.js
 └── README.md
