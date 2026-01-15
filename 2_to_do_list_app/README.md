@@ -1,29 +1,24 @@
-# Counter App 
+To Do List App 
+....................
 
-A simple counter application built using 
-**HTML**, **JavaScript**, and **Tailwind CSS**.  
-This project is beginner-friendly and helps understand basic DOM manipulation and event handling in JavaScript.
+A simple To-Do List application built using
+HTML, JavaScript, and Tailwind CSS.
+This project is beginner-friendly and helps in understanding DOM manipulation, event handling, and basic JavaScript logic.
 
---
-
-## Features
-- Increase the counter value
-- Decrease the counter value
-- Reset the counter to zero
+--Features
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
 - Clean and responsive UI using Tailwind CSS
 
---
-
-## Technologies Used
+--Technologies Used
 - HTML
 - JavaScript
 - Tailwind CSS (via CDN)
 
---
-
-## Project Structure
+--Project Structure
 ```bash
-1_counter-app/
+2_to_do_list_app/
 │
 ├── index.html
 ├── script.js
